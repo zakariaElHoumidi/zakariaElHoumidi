@@ -21,7 +21,7 @@
   </a>
   
   <a target="_blank" href="mailto:elhoumidizakaria.dev@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/297/297170.png" alt="email" width="40" height="40"/>
+    <img src="https://cdn-icons-png.freepik.com/512/8976/8976164.png" alt="email" width="40" height="40"/>
   </a>
 </p>
 
