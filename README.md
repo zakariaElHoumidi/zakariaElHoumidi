@@ -12,8 +12,16 @@
 ## 🌐 Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zakaria-el-houmidi/">
-  <img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" alt="linkedin" width="40" height="40"/>
+  <a target="_blank" href="https://www.linkedin.com/in/zakaria-el-houmidi/">
+    <img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" alt="linkedIn" width="40" height="40"/>
+  </a>
+  
+  <a target="_blank" href="http://wa.me/212772534992">
+    <img src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-01-512.png" alt="whatsApp" width="40" height="40"/>
+  </a>
+  
+  <a target="_blank" href="mailto:elhoumidizakaria.dev@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/297/297170.png" alt="email" width="40" height="40"/>
   </a>
 </p>
 
