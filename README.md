@@ -12,7 +12,7 @@
 ## 🌐 Connect with me:
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/zakaria-el-houmidi/">
+  <a target="blank" href="https://www.linkedin.com/in/zakaria-el-houmidi/">
     <img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" alt="linkedIn" width="40" height="40"/>
   </a>
   
