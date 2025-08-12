@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm a passionate Full Stack Developer</h1>
 
-- 🔭 I’m currently working on [BimobTech](https://www.bimobtech.com)
-- 🌱 I’m currently learning **Swift**
-- 💬 Ask me about **React JS**
-- 📫 How to reach me **aminedevelopment@gmail.com**
+🔭 I’m currently working on: Personal projects to improve my Laravel & React skills .
+🌱 I’m currently learning: Angular .
+👯 I’m looking to collaborate on: Real-world Laravel & React applications with clear role-based dashboards .
+💬 Ask me about: Laravel, React.js .
+⚡ Fun fact: i can spend hours perfecting a feature most users will notice for only 3 seconds .
+- 📫 How to reach me **elhoumidizakaria.dev@gmail.com**
 
 ---
 
 ## 🌐 Connect with me:
 
-(You can add links to your LinkedIn, GitHub, portfolio, etc.)
+<p align="center">
+  <img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" alt="linkedin" width="40" height="40"/>
+</p>
 
 ---
 
